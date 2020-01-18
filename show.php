@@ -55,6 +55,8 @@
              </div>
              <div class="col-md-4">
                 <h4>AVANCER</h4>
+                <p> Calculer la moyenne: <br>
+                  Saisir les nombres en les séparants par une virgule EX : 12.5,12</p>
                  <form action="index.php" method="POST">
                      <input type="hidden" name="double" value="double">
                      <textarea name="note" id="note" cols="30" rows="10" class="form-control"></textarea> <br>
